@@ -1,2 +1,2 @@
--test
-\n -test2
+*test
+*test2
